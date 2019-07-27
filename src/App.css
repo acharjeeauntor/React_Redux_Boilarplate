@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color: blueviolet
+}
+
+h1 {
+  color: brown
+}
+
+p {
+  color:black
+}
